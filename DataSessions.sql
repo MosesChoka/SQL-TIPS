@@ -58,6 +58,6 @@ SELECT * FROM Customers ;
 select DISTINCT name, id, age, city from Customers;
 
 
-
+-- SQL Beginner --
 
 
